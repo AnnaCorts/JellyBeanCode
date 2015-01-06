@@ -1,4 +1,4 @@
-#!/Vendors/anaconda/bin/python
+#!/users/Anna/anaconda/python
 
 import EstNumJellyBeans as jelly
 
